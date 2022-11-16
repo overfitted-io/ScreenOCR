@@ -2,6 +2,10 @@
  
 This is a small tool which assists in performing fast OCR (and HTR, if available) by allowing you to select regions of interest directly from your screen. The application will return the selectable text in a new window right near your selected region.
 
+
+![Result of Text Extraction process from a Romanian ID Card](demo-imgs/screenocr-demo.gif)
+
+
 ## Requirements
 
 #### Windows (tested on Windows Home 21H1)
