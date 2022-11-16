@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenOCR", "ScreenOCR\ScreenOCR.csproj", "{F6CB5C95-0A4F-466C-A980-0995D35DC86F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6CB5C95-0A4F-466C-A980-0995D35DC86F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6CB5C95-0A4F-466C-A980-0995D35DC86F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6CB5C95-0A4F-466C-A980-0995D35DC86F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6CB5C95-0A4F-466C-A980-0995D35DC86F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B562682E-898D-452F-A7E0-3C407A67DC24}
+	EndGlobalSection
+EndGlobal
